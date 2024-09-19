@@ -1,0 +1,1 @@
+# polarion-extension-icons
